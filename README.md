@@ -69,9 +69,9 @@ The following schedule is subject to change.
 | Oct 24   | [Staging + Deployment](https://docs.google.com/presentation/d/1J3oDEPSGzDGa0B41Ppe8yA02tYicSgstVXHU5mGxU5w/edit#slide=id.g1da8fd6af9_0_196)             |            |                   |
 | Oct 26    | [Workshop: Deployment](https://github.com/CSC-DevOps/Deployment/blob/master/README.md)             |            |                   |
 | Oct 31   | [Tech Talks #3](https://github.com/CSC-DevOps/Course/blob/master/TechTalks.md)   |            |                   |
-| Nov 2   | [Advanced Docker: Deployment](https://github.com/CSC-DevOps/Course/blob/master/Workshops/AdvancedDocker.md)                    |   | [HW4](HW/HW4.md)    |
+| Nov 2   | [Advanced Docker: Deployment](https://github.com/shauryagarg2006/DockerSwarm/)                    |   | [HW4](HW/HW4.md)    |
 | Nov 7   | [Analysis + Monitoring](https://docs.google.com/presentation/d/1swei7oeXWZGnXe9gC1jlh4Gd1h9Ri6I6x2kTgKr1BVw/edit?usp=sharing)            |            | [MILESTONE: SPECIAL](Project/M4.md)|
-| Nov 9   | Workshop: Monitoring + Resilience|  [Chaos Engineering](https://www.facebook.com/notes/tpm-networking-group/notes-from-chaos-community-day-nov-4th-2015/1042668315800057)          |                   |
+| Nov 9   | [Workshop: Monitoring + Resilience](https://github.com/CSC-DevOps/Monitoring)|  [Chaos Engineering](https://www.facebook.com/notes/tpm-networking-group/notes-from-chaos-community-day-nov-4th-2015/1042668315800057)          |                   |
 | Nov 14   |  No class   |            |             |
 | Nov 16   |  IBM: Bradley Herrin  |            |             |
 | Nov 21   | [Tech Talks #4](https://github.com/CSC-DevOps/Course/blob/master/TechTalks.md)          |                   |
