@@ -47,13 +47,13 @@ The following schedule is subject to change.
 
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------| ----------------  |
-| Aug 17   | [Core Concepts](http://tiny.cc/CSC-DevOpsCore) |  [Adages](https://github.com/CSC-DevOps/Course/blob/master/Readings/AdagesI.pdf)        | [HW0](https://github.com/CSC-DevOps/Course/blob/master/HW/HW0.md) |
+| Aug 17   | [Core Concepts](http://tiny.cc/CSC-DevOpsCore) |  [Adages](https://github.com/joshio1/Course/blob/master/Readings/AdagesI.pdf)        | [HW0](https://github.com/joshio1/Course/blob/master/HW/HW0.md) |
 | Aug 22   | [Configuration Management](http://tiny.cc/devops-cm-slides)  |            | |
-| Aug 24   | [Workshop: Managed Environments](https://github.com/CSC-DevOps/CM/blob/master/README.md) |            | [HW1](HW/HW1.md) |
-| Aug 29   | [Workshop: Ansible](https://github.com/CSC-DevOps/CM/blob/master/README.md) |  |   |
+| Aug 24   | [Workshop: Managed Environments](https://github.com/joshio1/CM/blob/master/README.md) |            | [HW1](HW/HW1.md) |
+| Aug 29   | [Workshop: Ansible](https://github.com/joshio1/CM/blob/master/README.md) |  |   |
 | Aug 31   | Workshop: Provisioning   |            |                   |
 | Sep 5    | [Build Management](https://docs.google.com/presentation/d/1PeI-RbsisPtC8tbKMgtB3IDlffLjE6obQkp-tL0Cmsw/edit#slide=id.p)   |             | [MILESTONE: CM+BUILD](Project/CM.md) |
-| Sep 7   |  [Workshop: Build Servers](https://github.com/CSC-DevOps/Course/blob/master/Workshops/Build.md)       |            |                   |
+| Sep 7   |  [Workshop: Build Servers](https://github.com/joshio1/Course/blob/master/Workshops/Build.md)       |            |                   |
 | Sep 12   | [Analysis](https://docs.google.com/presentation/d/1EkfcbwXko9gvtel0t4GD_cpE4me-OAIwdYt0p_OAeIs/edit#slide=id.p)                         |            |                   |
 | Sep 14   | [Workshop: Complexity](https://github.com/CSC-DevOps/Complexity)                |            |                   |
 | Sep 19   | [Test Management](https://docs.google.com/presentation/d/1Wv149dt56DAixTn5BqdyHwVxBWyHU1pk5ohL7jlVAWs/edit#slide=id.p)                  |            | |        
