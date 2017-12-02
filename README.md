@@ -55,26 +55,26 @@ The following schedule is subject to change.
 | Sep 5    | [Build Management](https://docs.google.com/presentation/d/1PeI-RbsisPtC8tbKMgtB3IDlffLjE6obQkp-tL0Cmsw/edit#slide=id.p)   |             | [MILESTONE: CM+BUILD](Project/CM.md) |
 | Sep 7   |  [Workshop: Build Servers](https://github.com/joshio1/Course/blob/master/Workshops/Build.md)       |            |                   |
 | Sep 12   | [Analysis](https://docs.google.com/presentation/d/1EkfcbwXko9gvtel0t4GD_cpE4me-OAIwdYt0p_OAeIs/edit#slide=id.p)                         |            |                   |
-| Sep 14   | [Workshop: Complexity](https://github.com/CSC-DevOps/Complexity)                |            |                   |
+| Sep 14   | [Workshop: Complexity](https://github.com/joshio1/Complexity)                |            |                   |
 | Sep 19   | [Test Management](https://docs.google.com/presentation/d/1Wv149dt56DAixTn5BqdyHwVxBWyHU1pk5ohL7jlVAWs/edit#slide=id.p)                  |            | |        
-| Sep 21   | [Workshop: Test Suites](https://github.com/CSC-DevOps/TestSuites)    |      |    |
-| Sep 26   | [Workshop: Fuzzing](https://github.com/CSC-DevOps/Fuzzing) |   |   [MILESTONE: TEST/ANALYSIS](Project/BuildTestAnalysis.md) |
-| Sep 28   | [Workshop: Test Generation](https://github.com/CSC-DevOps/TestGeneration)   |   |  [HW2](HW/HW2.md)   |
+| Sep 21   | [Workshop: Test Suites](https://github.com/joshio1/TestSuites)    |      |    |
+| Sep 26   | [Workshop: Fuzzing](https://github.com/joshio1/Fuzzing) |   |   [MILESTONE: TEST/ANALYSIS](Project/BuildTestAnalysis.md) |
+| Sep 28   | [Workshop: Test Generation](https://github.com/joshio1/TestGeneration)   |   |  [HW2](HW/HW2.md)   |
 | Oct 3   |  Testing Lecture Makeup  |     |  |
 | Oct 5&mdash;6    | Fall Break                       |            |                   |
 | Oct 10   | [Infrastructure Management](https://1drv.ms/p/s!AG169vwdL5H_jUY)        |            |                   |
-| Oct 12  |  [Tech Talks #2](https://github.com/CSC-DevOps/Course/blob/master/TechTalks.md)                   |     |                   |
+| Oct 12  |  [Tech Talks #2](https://github.com/joshio1/Course/blob/master/TechTalks.md)                   |     |                   |
 | Oct 17   | [Feature Flags/Property Sets/Redis](https://docs.google.com/presentation/d/1cqVz0H4t-b7ZWMEbfBaYJDLSePhMOOjWW04CRzsIY5k/edit#slide=id.p)|            | [MILESTONE: DEPLOY](Project/M3.md) |
-| Oct 19   | [Workshop: Queues, Caches, Proxies](https://github.com/CSC-DevOps/Queues)|            | [HW3](HW/HW3.md)       |            
+| Oct 19   | [Workshop: Queues, Caches, Proxies](https://github.com/joshio1/Queues)|            | [HW3](HW/HW3.md)       |            
 | Oct 24   | [Staging + Deployment](https://docs.google.com/presentation/d/1J3oDEPSGzDGa0B41Ppe8yA02tYicSgstVXHU5mGxU5w/edit#slide=id.g1da8fd6af9_0_196)             |            |                   |
-| Oct 26    | [Workshop: Deployment](https://github.com/CSC-DevOps/Deployment/blob/master/README.md)             |            |                   |
-| Oct 31   | [Tech Talks #3](https://github.com/CSC-DevOps/Course/blob/master/TechTalks.md)   |            |                   |
+| Oct 26    | [Workshop: Deployment](https://github.com/joshio1/Deployment/blob/master/README.md)             |            |                   |
+| Oct 31   | [Tech Talks #3](https://github.com/joshio1/Course/blob/master/TechTalks.md)   |            |                   |
 | Nov 2   | [Advanced Docker: Deployment](https://github.com/shauryagarg2006/DockerSwarm/)                    |   | [HW4](HW/HW4.md)    |
 | Nov 7   | [Analysis + Monitoring](https://docs.google.com/presentation/d/1swei7oeXWZGnXe9gC1jlh4Gd1h9Ri6I6x2kTgKr1BVw/edit?usp=sharing)            |            | [MILESTONE: SPECIAL](Project/M4.md)|
-| Nov 9   | [Workshop: Monitoring + Resilience](https://github.com/CSC-DevOps/Monitoring)|  [Chaos Engineering](https://www.facebook.com/notes/tpm-networking-group/notes-from-chaos-community-day-nov-4th-2015/1042668315800057)          |                   |
+| Nov 9   | [Workshop: Monitoring + Resilience](https://github.com/joshio1/Monitoring)|  [Chaos Engineering](https://www.facebook.com/notes/tpm-networking-group/notes-from-chaos-community-day-nov-4th-2015/1042668315800057)          |                   |
 | Nov 14   |  No class   |            |             |
 | Nov 16   |  IBM: Bradley Herrin  |            |             |
-| Nov 21   | [Tech Talks #4](https://github.com/CSC-DevOps/Course/blob/master/TechTalks.md)          |                   |
+| Nov 21   | [Tech Talks #4](https://github.com/joshio1/Course/blob/master/TechTalks.md)          |                   |
 | Nov 23   | Thanksgiving                     |            |                   |
 | Nov 28   | Demos                     |            |                   |
 | Nov 30   | Demos                     |            |                   |
